@@ -1,0 +1,424 @@
+fileFormatVersion: 2
+guid: ad1fe623fe30b0448b2e620c86e86e8f
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: GUI_Mute
+    21300002: GUI_Unmute
+    21300004: GUI_Dapper
+    21300006: GUI_Facebook
+    21300008: GUI_GameOver
+    21300010: GUI_Skip
+    21300012: GUI_Play
+    21300014: GUI_Guillotine_Frame
+    21300016: GUI_Guillotine_Blade
+    21300018: GUI_Guillotine_Knot
+    21300020: GUI_Headrest_Top
+    21300022: GUI_Headrest_Frame
+    21300024: GUI_Headrest_Bottom
+    21300026: GUI_Instructions_Phone
+    21300028: GUI_Instructions_Arrow
+    21300030: GUI_Quit
+    21300032: GUI_Retry
+    21300034: GUI_Title
+    21300036: GUI_Title_Eye2
+    21300038: GUI_Title_Eyefill
+    21300040: GUI_Title_Eye1
+    21300042: GUI_Title_Eye3
+    21300044: GUI_Title_Eye4
+    21300046: GUI_Instructions_Tilt
+    21300048: GUI_Instructions_Tilt1
+    21300050: GUI_Instructions_Hold
+    21300052: GUI_Instructions_Hold1
+    21300054: GUI_Instructions_Hand
+    21300056: GUI_Instructions_Touch
+    21300058: GUI_Instructions_MiniKami
+    21300060: GUI_Dapper
+    21300062: GUI_Leaderboards
+    21300064: GUI_Tombstone
+    21300066: GUI_Back
+    21300068: GUI_MyScore
+    21300070: GUI_Next
+    21300072: GUI_MainMenu
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: GUI_Mute
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1939
+        width: 94
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Unmute
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1844
+        width: 95
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Facebook
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1939
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_GameOver
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 1759
+        width: 380
+        height: 289
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Skip
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 1805
+        width: 187
+        height: 188
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Play
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 1919
+        width: 191
+        height: 121
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Guillotine_Frame
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1421
+        width: 380
+        height: 151
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Guillotine_Blade
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1426
+        width: 94
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Guillotine_Knot
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1568
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Headrest_Top
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1498
+        width: 311
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Headrest_Frame
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1306
+        width: 379
+        height: 168
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Headrest_Bottom
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1192
+        width: 317
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Instructions_Phone
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 1373
+        width: 119
+        height: 210
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Instructions_Arrow
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 1527
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Quit
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1192
+        width: 168
+        height: 115
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Retry
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1215
+        width: 182
+        height: 114
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Title
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 1343
+        width: 545
+        height: 265
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Title_Eye2
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 1662
+        width: 16
+        height: 14
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Title_Eyefill
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 1716
+        width: 415
+        height: 142
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Title_Eye1
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 1662
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Title_Eye3
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 1628
+        width: 16
+        height: 15
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Title_Eye4
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 1627
+        width: 13
+        height: 13
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Instructions_Tilt
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 1210
+        width: 288
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Instructions_Tilt1
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 1264
+        width: 306
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Instructions_Hold
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 1148
+        width: 324
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Instructions_Hold1
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 1075
+        width: 316
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Instructions_Hand
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 1377
+        width: 69
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Instructions_Touch
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 1490
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Instructions_MiniKami
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 1393
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Dapper
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1800
+        width: 87
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Leaderboards
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1614
+        width: 266
+        height: 144
+      alignment: 9
+      pivot: {x: .0864394605, y: .65504539}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Tombstone
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 349
+        width: 404
+        height: 669
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Back
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 181
+        width: 135
+        height: 162
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_MyScore
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 179
+        width: 170
+        height: 159
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

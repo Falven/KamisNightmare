@@ -1,0 +1,685 @@
+fileFormatVersion: 2
+guid: 0fc7c777c6f56344f8fddb90dc7a5f7d
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Bunny_Foot_Left
+    21300002: Bunny_Foot_Right
+    21300004: Bunny_Paw_Left
+    21300006: Bunny_Paw_Right
+    21300008: Bunny_Eye_Right
+    21300010: Bunny_Wing_Left
+    21300012: Bunny_Wing_Right
+    21300014: Bunny_Whisker_Left
+    21300016: Bunny_Whisker_Right
+    21300018: Bunny_Fill
+    21300020: Chick_Fill
+    21300022: Chick_Wing_Left
+    21300024: Chick_Wing_Right
+    21300026: Chick_Eye_Right
+    21300028: Chick_Foot_Left
+    21300030: Chick_Foot_Right
+    21300032: Duckie_Fill
+    21300034: Duckie_Wing_Right
+    21300036: Duckie_Wing_Left
+    21300038: Duckie_Eye_Left
+    21300040: Duckie_Eye_Right
+    21300042: Duckie_Foot_Right
+    21300044: Duckie_Foot_Left
+    21300046: Duckie_Zipper
+    21300048: Monkey_Wing_Left
+    21300050: Monkey_Wing_Right
+    21300052: Monkey_Eye_Left
+    21300054: Monkey_Eye_Right
+    21300056: Monkey_Fill
+    21300058: Monkey_Ear_Left
+    21300060: Monkey_Ear_Right
+    21300062: Monkey_Foot_Left
+    21300064: Monkey_Foot_Right
+    21300066: Monkey_Arm_Left
+    21300068: Monkey_Arm_Right
+    21300070: Sheep_Ear_Left
+    21300072: Sheep_Ear_Right
+    21300074: Sheep_Wing_Left
+    21300076: Sheep_Wing_Right
+    21300078: Sheep_Zipper
+    21300080: Sheep_Eye_Left
+    21300082: Sheep_Eye_Right
+    21300084: Sheep_Paw_Left
+    21300086: Sheep_Paw_Right
+    21300088: Sheep_Foot_Left
+    21300090: Sheep_Foot_Right
+    21300092: Teddy_Ear_Left
+    21300094: Teddy_Ear_Right
+    21300096: Teddy_Eye_Left
+    21300098: Teddy_Fill
+    21300100: Teddy_Wing_Right
+    21300102: Teddy_Wing_Left
+    21300104: Teddy_Foot_Left
+    21300106: Teddy_Foot_Right
+    21300108: Teddy_Tail
+    21300110: Teddy_Paw_Right
+    21300112: Teddy_Paw_Left
+    21300114: Sheep_Fill
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 325
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Bunny_Foot_Left
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1150
+        width: 66
+        height: 96
+      alignment: 9
+      pivot: {x: .731158018, y: .245128572}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bunny_Foot_Right
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1026
+        width: 51
+        height: 100
+      alignment: 9
+      pivot: {x: .601465821, y: .264296889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bunny_Paw_Left
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 923
+        width: 26
+        height: 43
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bunny_Paw_Right
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 917
+        width: 25
+        height: 49
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bunny_Eye_Right
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 847
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bunny_Wing_Left
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 798
+        width: 91
+        height: 42
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bunny_Wing_Right
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 795
+        width: 90
+        height: 49
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bunny_Whisker_Left
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1163
+        width: 129
+        height: 79
+      alignment: 9
+      pivot: {x: .960993826, y: .895031989}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bunny_Whisker_Right
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1014
+        width: 129
+        height: 112
+      alignment: 9
+      pivot: {x: .0591918714, y: .101202957}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bunny_Fill
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 788
+        width: 251
+        height: 480
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Chick_Fill
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 935
+        width: 183
+        height: 252
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Chick_Wing_Left
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 1136
+        width: 106
+        height: 51
+      alignment: 9
+      pivot: {x: .986515224, y: .354183435}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Chick_Wing_Right
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 1072
+        width: 101
+        height: 50
+      alignment: 9
+      pivot: {x: .014980373, y: .11234168}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Chick_Eye_Right
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 1002
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Chick_Foot_Left
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 935
+        width: 43
+        height: 51
+      alignment: 9
+      pivot: {x: .428942591, y: .0888049081}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Chick_Foot_Right
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 935
+        width: 41
+        height: 46
+      alignment: 9
+      pivot: {x: .491091996, y: .109674007}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Duckie_Fill
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 830
+        width: 191
+        height: 353
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Duckie_Wing_Right
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 1016
+        width: 116
+        height: 56
+      alignment: 9
+      pivot: {x: .0124501325, y: .0702075213}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Duckie_Wing_Left
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 1117
+        width: 118
+        height: 51
+      alignment: 9
+      pivot: {x: .992183268, y: .358016819}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Duckie_Eye_Left
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 876
+        width: 78
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Duckie_Eye_Right
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 876
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Duckie_Foot_Right
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 1079
+        width: 73
+        height: 77
+      alignment: 9
+      pivot: {x: .505384326, y: .157007918}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Duckie_Foot_Left
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 966
+        width: 66
+        height: 81
+      alignment: 9
+      pivot: {x: .538069189, y: .180036038}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Duckie_Zipper
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 903
+        width: 22
+        height: 23
+      alignment: 9
+      pivot: {x: .285380036, y: .872006714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monkey_Wing_Left
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 420
+        width: 189
+        height: 103
+      alignment: 9
+      pivot: {x: .977056623, y: .222210422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monkey_Wing_Right
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 249
+        width: 193
+        height: 92
+      alignment: 9
+      pivot: {x: .0334381424, y: .174141645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monkey_Eye_Left
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 597
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monkey_Eye_Right
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 596
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monkey_Fill
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 275
+        width: 251
+        height: 412
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monkey_Ear_Left
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 202
+        width: 47
+        height: 45
+      alignment: 9
+      pivot: {x: .953641295, y: .272029102}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monkey_Ear_Right
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 206
+        width: 58
+        height: 37
+      alignment: 9
+      pivot: {x: .0757125318, y: .579704285}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monkey_Foot_Left
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 0
+        width: 94
+        height: 148
+      alignment: 9
+      pivot: {x: .718703151, y: .945963144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monkey_Foot_Right
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1
+        width: 90
+        height: 147
+      alignment: 9
+      pivot: {x: .30846408, y: .953532398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monkey_Arm_Left
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 275
+        width: 107
+        height: 239
+      alignment: 9
+      pivot: {x: .950634718, y: .901689112}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monkey_Arm_Right
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 0
+        width: 87
+        height: 234
+      alignment: 9
+      pivot: {x: .116843387, y: .913121462}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheep_Ear_Left
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 410
+        width: 100
+        height: 66
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheep_Ear_Right
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 378
+        width: 81
+        height: 75
+      alignment: 9
+      pivot: {x: .0496129692, y: .860500336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheep_Wing_Left
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 208
+        width: 116
+        height: 64
+      alignment: 9
+      pivot: {x: .971181929, y: .230138302}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheep_Wing_Right
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 86
+        width: 122
+        height: 58
+      alignment: 9
+      pivot: {x: .0273992363, y: .183347374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheep_Zipper
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 311
+        width: 25
+        height: 29
+      alignment: 9
+      pivot: {x: .735326648, y: .954266071}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheep_Eye_Left
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 488
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheep_Eye_Right
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 488
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheep_Paw_Left
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 176
+        width: 41
+        height: 96
+      alignment: 9
+      pivot: {x: .583615184, y: .9764449}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheep_Paw_Right
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 184
+        width: 33
+        height: 80
+      alignment: 9
+      pivot: {x: .554999828, y: .969443381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheep_Foot_Left
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 59
+        width: 33
+        height: 78
+      alignment: 9
+      pivot: {x: .518891335, y: .95375526}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheep_Foot_Right
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 60
+        width: 31
+        height: 76
+      alignment: 9
+      pivot: {x: .494975418, y: .966438949}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Teddy_Ear_Left
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 458
+        width: 71
+        height: 76
+      alignment: 9
+      pivot: {x: .687387466, y: .281581223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Teddy_Ear_Right
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 458
+        width: 71
+        height: 83
+      alignment: 9
+      pivot: {x: .321373314, y: .168933913}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Teddy_Eye_Left
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 277
+        width: 67
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Teddy_Fill
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 146
+        width: 224
+        height: 354
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Teddy_Wing_Right
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 148
+        width: 101
+        height: 81
+      alignment: 9
+      pivot: {x: .0238869134, y: .0444558226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Teddy_Wing_Left
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 148
+        width: 119
+        height: 56
+      alignment: 9
+      pivot: {x: .976515532, y: .292589188}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Teddy_Foot_Left
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 45
+        width: 54
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Teddy_Foot_Right
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 50
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Teddy_Tail
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 32
+        width: 46
+        height: 64
+      alignment: 9
+      pivot: {x: .273791909, y: .0881620124}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Teddy_Paw_Right
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 372
+        width: 67
+        height: 72
+      alignment: 9
+      pivot: {x: .142414749, y: .115685523}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Teddy_Paw_Left
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 292
+        width: 80
+        height: 54
+      alignment: 9
+      pivot: {x: .932050586, y: .206426546}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheep_Fill
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 77
+        width: 215
+        height: 464
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

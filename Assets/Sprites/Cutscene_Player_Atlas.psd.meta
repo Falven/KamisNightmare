@@ -1,0 +1,232 @@
+fileFormatVersion: 2
+guid: 6176d012a1707a3488db22242731a70c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Kami_Face
+    21300002: Kami_Dress
+    21300004: Kami_Upperarm_Left
+    21300006: Kami_Forearm_Left
+    21300008: Kami_Forearm_Right
+    21300010: Kami_Leg_Left
+    21300012: Kami_Eye_Left
+    21300014: Kami_Eye_Right
+    21300016: Kami_Hair
+    21300018: Kami_Mouth_Happy
+    21300020: Kami_Mouth_Surprised
+    21300022: Kami_Arm_Left_Raised
+    21300024: Kami_Arm_Right_Raised
+    21300026: Kami_Leg_Right
+    21300028: Kami_Upperarm_Right
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 700
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Kami_Face
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 622
+        width: 285
+        height: 278
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kami_Dress
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 571
+        width: 484
+        height: 429
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kami_Upperarm_Left
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 392
+        width: 109
+        height: 98
+      alignment: 9
+      pivot: {x: .807289541, y: .76297015}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kami_Forearm_Left
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 334
+        width: 148
+        height: 189
+      alignment: 9
+      pivot: {x: .13692981, y: .883372784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kami_Upperarm_Right
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 783
+        width: 219
+        height: 197
+      alignment: 9
+      pivot: {x: .150645912, y: .684875786}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kami_Forearm_Right
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 334
+        width: 162
+        height: 181
+      alignment: 9
+      pivot: {x: .87645781, y: .906930566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kami_Leg_Left
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 168
+        width: 61
+        height: 127
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kami_Leg_Right
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 332
+        width: 146
+        height: 244
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kami_Eye_Left
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 173
+        width: 49
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kami_Eye_Right
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 172
+        width: 50
+        height: 107
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kami_Hair
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 12
+        width: 379
+        height: 391
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kami_Mouth_Happy
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 536
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kami_Mouth_Surprised
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 527
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kami_Arm_Left_Raised
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 0
+        width: 68
+        height: 156
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kami_Arm_Right_Raised
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 0
+        width: 67
+        height: 163
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kami_Leg_Right
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 167
+        width: 61
+        height: 121
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kami_Upperarm_Right
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 392
+        width: 108
+        height: 97
+      alignment: 9
+      pivot: {x: .131607056, y: .689034402}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

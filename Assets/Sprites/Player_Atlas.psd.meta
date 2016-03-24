@@ -1,0 +1,146 @@
+fileFormatVersion: 2
+guid: 7e5ef9f2717ec104ca5e0c90cc166443
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Kami_Falling1
+    21300002: Kami_Falling2
+    21300004: Kami_Falling3
+    21300006: Kami_Dead1
+    21300008: Kami_Dead2
+    21300010: Kami_Dead3
+    21300012: Kami_Floating1
+    21300014: Kami_Floating2
+    21300016: Kami_Floating3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 175
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Kami_Falling1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 700
+        width: 169
+        height: 318
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kami_Falling2
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 700
+        width: 169
+        height: 318
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kami_Falling3
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 700
+        width: 169
+        height: 318
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kami_Dead1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 170
+        height: 325
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kami_Dead2
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 170
+        height: 325
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kami_Dead3
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 0
+        width: 170
+        height: 325
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kami_Floating1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 353
+        width: 199
+        height: 327
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kami_Floating2
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 353
+        width: 192
+        height: 327
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kami_Floating3
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 353
+        width: 199
+        height: 327
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
